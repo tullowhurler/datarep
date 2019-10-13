@@ -11,9 +11,15 @@
 <description>Sample of 2 technical books</description> 
 </technical> 
 <cookery> 
-<title>Strawberry Belgian Waffles</title> 
-<isbn>$7.95</isbn> 
-<author> </author>
+<title>Tofu cookery</title> 
+<isbn>
+0913990760 (ISBN13: 9780913990766)</isbn> 
+<author>Louise Hagler </author>
+<description>
+<title>Crockery cookery</title> 
+<isbn>
+0553576518 (ISBN13: 9780553576511)</isbn> 
+<author>Mable Hoffman</author>
 <description>
 Sample of 2 cookery books
 </description> 
