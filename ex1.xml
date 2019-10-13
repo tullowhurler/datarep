@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <catalogue> 
 <technical> 
-<title>Belgian Waffles</title> 
-<isbn>$5.95</isbn> 
-<author>
-<description>Two of our famous Belgian Waffles with syrup</description> <calories>650</calories> 
-</food> 
-<food> 
-<name>Strawberry Belgian Waffles</name> 
-<price>$7.95</price> 
+<title>Storytelling with data</title> 
+<isbn>1119002257 (ISBN13: 9781119002253)</isbn> 
+<author> Cole Nussbaumer Knaflic</author>
+<title>Blockchain Evolution</title> 
+<isbn>
+0670069973 (ISBN13: 9780670069972)</isbn> 
+<author> Alex Tapscott</author>
+<description>Sample of 2 technical books</description> 
+</technical> 
+<cookery> 
+<title>Strawberry Belgian Waffles</title> 
+<isbn>$7.95</isbn> 
+<author> </author>
 <description>
-Light Belgian waffles covered with strawberries and whipped cream
+Sample of 2 cookery books
 </description> 
-<calories>900</calories> 
-</food> 
-</breakfast_menu> 
+ </cookery> 
+</catalogue> 
