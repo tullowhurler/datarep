@@ -5,8 +5,10 @@ import json
 from xlwt import *
 response = requests.get(url) 
 data = response.json() 
+
 #other code 
-# # write to excel file 
+# write to excel file 
+
 w = Workbook() 
 ws = w.add_sheet('cars') 
 row = 0 
